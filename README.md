@@ -10,4 +10,5 @@ I’m building skills in:
 - Embedded system debugging
 
 💡 All work done hands-on, without any paid training. Just passion, time, and persistence.
+ Self-learned from open-source & community-shared educational content.
 
